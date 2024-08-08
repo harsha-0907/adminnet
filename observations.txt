@@ -1,0 +1,23 @@
+session
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-> While executing instructions, the output is printed real-time.
+-> Execution's output will be obtained to the variable to parse it.
+
